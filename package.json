@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/goit-advancedjs-hw-04/",
+    "build": "vite build --base=/muzon-showcase-react/",
     "lint": "eslint .",
     "preview": "vite preview"
   },
